@@ -1,0 +1,12 @@
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\bin\Debug\net5.0\Logic.deps.json
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\bin\Debug\net5.0\Logic.dll
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\bin\Debug\net5.0\ref\Logic.dll
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\bin\Debug\net5.0\Logic.pdb
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.AssemblyInfo.cs
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.dll
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\ref\Logic.dll
+C:\Users\Lord Fab Marv\Desktop\AutoBackUp\AutoBackUp\Logic\obj\Debug\net5.0\Logic.pdb

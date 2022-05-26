@@ -1,0 +1,179 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\AutoBackUp\\AutoBackUp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\AutoBackUp\\AutoBackUp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\AutoBackUp\\AutoBackUp.csproj",
+        "projectName": "AutoBackUp",
+        "projectPath": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\AutoBackUp\\AutoBackUp.csproj",
+        "packagesPath": "C:\\Users\\Lord Fab Marv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\AutoBackUp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lord Fab Marv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Ionic.Zip": {
+              "target": "Package",
+              "version": "[1.9.1.8, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Lord Fab Marv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Fab Marv\\Documents\\ASP DOTNET CORE PROJECTS\\AutoBackUp\\Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lord Fab Marv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Ionic.Zip": {
+              "target": "Package",
+              "version": "[1.9.1.8, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
